@@ -18,7 +18,7 @@ const cars: Car[] = [
 </script>
 
 <template>
-  <div class="bg-gradient-to-br from-gray-900 via-gray-800 to-black text-white min-h-screen py-16">
+  <div class="bg-gradient-to-br from-gray-900 via-gray-800 to-black text-black min-h-screen py-16">
     <div class="container mx-auto px-8">
       <h1
         class="text-6xl font-extrabold text-center text-yellow-400 mb-10 tracking-wide drop-shadow-xl"
