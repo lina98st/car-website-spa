@@ -11,9 +11,9 @@ interface Car {
 
 // Typisierte Liste von Autos
 const cars: Car[] = [
-  { id: 1, name: 'BMW M3', price: 65000, img: '/images/bmw-m3.jpg' },
-  { id: 2, name: 'Audi RS5', price: 70000, img: '/images/audi-rs5.jpg' },
-  { id: 3, name: 'Mercedes AMG C63', price: 85000, img: '/images/mercedes-amg-c63.jpg' },
+  { id: 1, name: 'BMW M3', price: 65000, img: './images/bmw-m3.jpg' },
+  { id: 2, name: 'Audi RS5', price: 70000, img: './images/audi-rs5.jpg' },
+  { id: 3, name: 'Mercedes AMG C63', price: 85000, img: './images/mercedes-amg-c63.jpg' },
 ]
 </script>
 

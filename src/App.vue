@@ -13,6 +13,4 @@ import Footer from './components/Footer.vue'
   </div>
 </template>
 
-<style>
-/* Falls du globale Styles für App.vue brauchst, kannst du sie hier hinzufügen */
-</style>
+<style></style>
